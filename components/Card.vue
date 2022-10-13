@@ -1,3 +1,8 @@
+import DatePicker from 'vuejs-datepicker/src/components/Datepicker.vue'
+<template lang="pug">
+  div
+    DatePicker
+</template>
 <template>
   <div class="column">
     <div class="card">
